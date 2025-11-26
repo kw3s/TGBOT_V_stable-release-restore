@@ -1,2 +1,2 @@
 # TGBOT_V
-Telegram bot on Vercel.
+Restore point for Telegram bot on Vercel.
