@@ -16,7 +16,7 @@ if not exist .git (
 
 echo Setting remote origin...
 git remote remove origin 2>nul
-git remote add origin https://github.com/kw3s/TGBOT_V.git
+git remote add origin https://github.com/kw3s/TGBOT_V_stable-release-restore.git
 
 echo.
 echo Adding all files...
@@ -35,7 +35,7 @@ echo ========================================
 echo Done! Repository updated.
 echo ========================================
 echo.
-echo Your GitHub repo: https://github.com/kw3s/TGBOT_V
+echo Your GitHub repo: https://github.com/kw3s/TGBOT_V_stable-release-restore
 echo Vercel will auto-deploy from GitHub!
 echo ========================================
 pause
